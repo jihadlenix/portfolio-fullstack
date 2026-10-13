@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "fullstack",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        ".claude/devserver.py",
+        "5180"
+      ],
+      "port": 5180
+    }
+  ]
+}
